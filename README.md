@@ -1,11 +1,11 @@
 # FRAMOS Sensor Module drivers for Nvidia Holoscan Sensor Bridge
 
-Getting started with [Framos General Optics modules FSM:GO](https://www.framos.com/en/fsmgo?utm_source=google&utm_medium=cpc&utm_campaign=FSM-GO_Product_Launch_2024) and Holoscan Sensor Bridge.
+Getting started with [Framos General Optics modules FSM:GO](https://docs.framos.com/en/latest/FSMEcosystem/Standardization/FSMGO-Intro.html) and Holoscan Sensor Bridge.
 
 This repository contains driver-source installation instructions for FRAMOS General Optic modules FSM:GO
 #
 > [!TIP]
-> Read official [Holoscan Sensor Bridge documentation](https://docs.nvidia.com/holoscan/sensor-bridge/2.0.0/index.html) for better understanding.
+> Read official [Holoscan Sensor Bridge documentation](https://archive.docs.nvidia.com/holoscan/sensor-bridge/2.0.0/index.html) for better understanding.
 
 #
 ## Supported hardware
